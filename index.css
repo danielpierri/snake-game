@@ -25,7 +25,7 @@ button {
   font-size: 1.5rem;
   padding: .5em 1.5em;
   margin-top: 2em;
-  margin-bottom: 3.5em;
+  margin-bottom: 0em;
   transition: box-shadow 25ms ease-in-out;
 }
 
@@ -48,6 +48,7 @@ h1 {
 h2 {
   font-size: 2rem;
   text-shadow: 5px 5px 0px black;
+  margin-bottom: 2.5em;
 }
 
 .grid {
@@ -59,7 +60,7 @@ h2 {
   width: 200px;
   height: 200px;
   margin: 0 auto;
-  transform: scale(2);
+  transform: scale(1.5);
 }
 
 .square {
